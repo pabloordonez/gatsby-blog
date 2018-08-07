@@ -2,6 +2,7 @@
 layout: "post"
 date: "2014-12-12"
 title: "Third Article"
+headerImg: "third-article.png"
 ---
 <p align="center">
   <a href="https://next.gatsbyjs.org">

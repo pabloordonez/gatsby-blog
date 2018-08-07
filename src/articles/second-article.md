@@ -2,6 +2,7 @@
 layout: "post"
 date: "2013-12-12"
 title: "Second Article"
+headerImg: "second-article.png"
 ---
 
 This is another article!
