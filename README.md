@@ -4,7 +4,7 @@ This is a test repository, made to learn Gatsby. It's not intended as real world
 of Gatsby inner workings and plugins. Maybe it can serve to others as an example of how to use fragment queries,
 or how to made a simple markdown blog as well.
 
-![Blog Screen](img/blog.png)
+![Blog Screen](static/img/blog.png)
 
 
 # Features
